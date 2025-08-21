@@ -1,1 +1,5 @@
 deportes:
+- volleyball
+- patinaje en hielo
+- tenis
+- futboll
